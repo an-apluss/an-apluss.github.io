@@ -595,6 +595,16 @@ body {
     color: #f79724; }
   .project-content .project-item-wrapper:nth-child(5) .overview {
     color: #f79724; }
+  .project-content .project-item-wrapper:nth-child(6) .highlight {
+    color: #17A2B8; }
+  .project-content .project-item-wrapper:nth-child(6) .roles {
+    color: #17A2B8; }
+  .project-content .project-item-wrapper:nth-child(6) .over {
+    color: #17A2B8; }
+  .project-content .project-item-wrapper:nth-child(6) .tech-stack {
+    color: #17A2B8; }
+  .project-content .project-item-wrapper:nth-child(6) .overview {
+    color: #17A2B8; }
   .project-content .project-item-wrapper {
     position: relative;
     display: grid;
