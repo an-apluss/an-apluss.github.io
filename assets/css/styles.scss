@@ -158,7 +158,7 @@ $blue: #00d8ff;
 $green: #84fab0;
 $orange: #f79724;
 $teal-green: #17A2B8;
-$textFaded: rgba(255, 255, 255, 0.2);
+$textFaded: rgba(209, 209, 209, 0.89);
 $textPrimary: #ffffff;
 $yellow: #f7fc01;
 
@@ -1019,7 +1019,7 @@ body {
 
     @media (hover: hover) {
       .project-card-img-section a:hover {
-        background: $backgroundColor;
+        background: $backgroundColorFaded;
         color: $textPrimary;
         cursor: pointer;
       }
